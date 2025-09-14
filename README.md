@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm <b>2ssac</b> 👋</h1>
-<h3 align="center">Frontend-focused Developer | <i>a.k.a</i> <b>theSnackOverflow 🍪</b></h3>
+<h3 align="center">Frontend-focused Developer | a.k.a <b>theSnackOverflow 🍪</b></h3>
 
 
 ## 🌟 About Me
