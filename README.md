@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <b>2ssac</b> 👋</h1>
+<h1 align="center">🌿 Hi, I'm <b>Issac</b> 🌿 </h1>
 <h3 align="center">Frontend-focused Developer | a.k.a <b>theSnackOverflow 🍪</b></h3>
 
 
