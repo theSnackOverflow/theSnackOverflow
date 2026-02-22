@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="mailto:ivory.ma9ic@gmail.com"><img src="https://img.shields.io/badge/ivory.ma9ic%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:ivory.ma9ic@gmail.com"><img src="https://img.shields.io/badge/ivory.ma9ic%40gmail.com-70a5fd?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
