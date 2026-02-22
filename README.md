@@ -31,20 +31,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="./metrics-stats.svg" alt="GitHub Stats" />
-</div>
-
-## Languages
-
-<div align="center">
-  <img src="./metrics-languages.svg" alt="Languages" />
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
