@@ -34,12 +34,13 @@
 ## GitHub Stats
 
 <div align="center">
+  <img src="./metrics-stats.svg" alt="GitHub Stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=theSnackOverflow&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSnackOverflow&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+## Languages
 
-<img src="https://streak-stats.demolab.com/?user=theSnackOverflow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="./metrics-languages.svg" alt="Languages" />
 </div>
 
 ---
