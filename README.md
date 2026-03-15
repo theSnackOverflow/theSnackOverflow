@@ -2,16 +2,32 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;TypeScript+%2F+Next.js+%2F+TailwindCSS;Building+Interactive+Web+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+TypeScript+%26+Next.js;Building+products+from+idea+to+production" alt="Typing SVG" /></a>
 
 </div>
 
 ## About Me
 
-- Currently diving into **TypeScript / Next.js / TailwindCSS**
-- Building **user-friendly, interactive** web apps
-- Enjoy sharing knowledge & documenting growth
-- Aiming to grow into a **Fullstack Developer** balancing design x logic
+- Frontend developer building with **TypeScript**, **Next.js**, and **React 19**
+- Shipped [omechu](https://omechu.log8.kr) — FSD architecture, 5,400 lines refactored, Lighthouse SEO 100
+- 3x hackathon winner | LLM+RAG patent filed (10-2025-0199865)
+- [issac.app](https://issac.app) / [blog.issac.app](https://blog.issac.app)
+
+---
+
+## Projects
+
+<div align="center">
+
+| Project | Description | Role | Highlight |
+|---------|-------------|------|-----------|
+| [omechu](https://github.com/Team-Omechu/Omechu-web) | 식사 메뉴 추천 서비스 | FE Architecture | FSD 전환, Lighthouse SEO 100, 주간 방문자 598명 |
+| [경도팟](https://github.com/UMC-9th-hackathon-TEAM5/FE) | 위치 기반 실시간 추격 게임 | FE Lead (72.5%) | UMC 해커톤 최우수상, PWA + Naver Maps |
+| [낭낭](https://github.com/nerdinary-hackathon-9th/nerdinary-front) | 챌린지 기반 습관 관리 서비스 | FE (48.6%) | 너디너리 해커톤 우수상 |
+| [gitguardian](https://github.com/azizbekdevuz/gitguardian) | AI 기반 Git 복구 도구 | Team Lead | Scoop AI 해커톤 2위 ($8K), 영어 협업 |
+| [stocat](https://github.com/stocat/stocat-fe) | 모의주식 거래 플랫폼 | FE Solo (83.3%) | Vanilla Extract, 2단계 색상 토큰 체계 |
+
+</div>
 
 ---
 
@@ -21,7 +37,6 @@
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
@@ -32,6 +47,10 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 <img src="https://img.shields.io/badge/Vanilla--Extract-99F6E4?style=for-the-badge&logoColor=000" alt="Vanilla Extract" />
 <br/>
+
+**Others**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 **Tools**
 
