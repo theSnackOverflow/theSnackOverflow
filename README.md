@@ -36,7 +36,7 @@ As a developer who has also experienced the PM role, I can speak the language of
 |:--------|:------------|:------:|:----------|
 | [omechu](https://github.com/Team-Omechu/Omechu-web) | 식사 메뉴 추천 서비스 | `2025.06 ~ 2026.02` | FSD 전환, Lighthouse SEO 100, 주간 방문자 598명 |
 | [낭낭](https://github.com/nerdinary-hackathon-9th/nerdinary-front) | 챌린지 기반 습관 관리 서비스 | `2025.11` | 너디너리 해커톤 우수상 |
-| [gitguardian](https://github.com/azizbekdevuz/gitguardian) | AI 기반 Git 복구 도구 | `2025.12` | Scoop AI 해커톤 2위 ($8K), 영어 협업 |
+| [gitguardian](https://github.com/azizbekdevuz/gitguardian) | AI 기반 Git 복구 도구 | `2025.12` | Scoop AI 해커톤 2위 ($1,000), 영어 협업 |
 | [NOVA](https://github.com/NOVA-9th/nova-fe) | IT 취준생을 위한 AI 콘텐츠 큐레이션 플랫폼 | `2025.12 ~ 2026.02` | OpenAI 기반 아티클 요약, 개인화 피드, 실서비스 운영 |
 | [stocat](https://github.com/stocat/stocat-fe) | 모의주식 거래 플랫폼 | `2025.12 ~ 현재` | Vanilla Extract, 2단계 색상 토큰 체계 |
 | [경도팟](https://github.com/UMC-9th-hackathon-TEAM5/FE) | 위치 기반 실시간 추격 게임 | `2026.01` | UMC 해커톤 최우수상, PWA + Naver Maps |
